@@ -133,3 +133,13 @@ header input:focus {
   max-height: 100%;
   box-shadow: 10px 10px 20px 10px rgb(71, 126, 126);
 }
+.cradit{
+  color: #fff;
+  text-align: center;
+  margin-bottom: auto;
+  
+}
+.cradit:hover{
+  letter-spacing: 3px;
+color: rgb(19, 102, 226);
+}
